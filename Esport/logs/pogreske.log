@@ -1,0 +1,757 @@
+2024-02-05 17:25:38,973 ERROR [main] o.e.Main [Main.java:72] U timu mora biti 5 igraca!
+2024-02-14 00:09:06,159 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:49] Korisnička prijava uspješna!
+2024-02-14 00:14:42,608 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:77] Admin prijava uspjesna!
+2024-02-14 01:22:43,744 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:79] Admin prijava uspjesna!
+2024-02-14 01:23:03,546 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 01:24:07,882 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 01:26:20,882 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 01:29:17,758 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 07:42:22,159 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 07:49:49,376 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 11:38:05,025 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 11:44:09,502 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 11:49:12,861 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 11:51:51,793 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 11:51:56,113 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 11:51:56,889 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 11:51:59,250 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 11:51:59,932 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 11:54:01,240 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 11:54:05,470 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 11:54:05,901 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 11:55:41,467 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 11:55:46,154 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 11:55:49,006 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 11:55:50,245 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 11:55:50,955 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 11:55:52,152 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 11:55:52,978 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 11:55:53,784 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 11:59:54,961 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 11:59:59,489 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:00:01,364 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:00:03,657 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:00:04,331 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:00:05,157 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:00:05,473 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:00:06,106 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:00:07,147 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:00:07,669 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:00:07,966 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:00:09,308 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:01:56,505 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 12:01:58,788 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:01:59,273 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:02:50,792 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 12:02:54,555 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:02:55,714 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:16:48,413 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 12:16:51,569 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:16:56,412 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:21:33,432 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 12:21:36,859 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:21:38,106 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:22:41,422 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 12:22:46,044 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:22:48,086 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:22:52,169 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:22:56,263 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:23:00,275 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:23:04,315 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:29:47,380 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 12:29:50,162 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:29:50,693 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:30:47,575 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 12:30:50,724 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:30:52,438 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:59:15,759 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 12:59:19,591 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:59:20,247 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:59:22,229 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 12:59:22,607 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 13:02:40,635 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 13:02:43,435 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 13:02:43,974 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 13:07:21,502 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 13:07:24,300 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 13:07:24,977 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 13:14:25,375 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 13:14:28,983 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 13:14:30,318 ERROR [JavaFX Application Thread] e.Main [Database.java:54] Pogreska kod spajanja na bazu
+2024-02-14 13:23:17,632 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 13:23:20,747 ERROR [JavaFX Application Thread] e.Main [Database.java:53] Pogreska kod spajanja na bazu
+2024-02-14 13:23:21,266 ERROR [JavaFX Application Thread] e.Main [Database.java:53] Pogreska kod spajanja na bazu
+2024-02-14 13:23:27,806 ERROR [JavaFX Application Thread] e.Main [Database.java:53] Pogreska kod spajanja na bazu
+2024-02-14 13:23:28,694 ERROR [JavaFX Application Thread] e.Main [Database.java:53] Pogreska kod spajanja na bazu
+2024-02-14 13:23:28,880 ERROR [JavaFX Application Thread] e.Main [Database.java:53] Pogreska kod spajanja na bazu
+2024-02-14 13:23:29,424 ERROR [JavaFX Application Thread] e.Main [Database.java:53] Pogreska kod spajanja na bazu
+2024-02-14 13:31:17,596 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 13:32:38,909 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 13:36:17,102 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 14:04:14,701 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 14:09:00,852 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 14:10:49,689 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 14:28:38,137 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 15:34:45,034 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 15:37:32,422 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 15:54:17,270 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 17:33:42,302 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:50] Korisnicka prijava uspjesna!
+2024-02-14 17:45:04,466 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:51] Korisnicka prijava uspjesna!
+2024-02-14 17:47:25,790 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:51] Korisnicka prijava uspjesna!
+2024-02-14 17:48:16,354 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:82] Admin prijava uspjesna!
+2024-02-14 17:55:34,481 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:82] Admin prijava uspjesna!
+2024-02-14 17:55:42,858 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:82] Admin prijava uspjesna!
+2024-02-14 17:58:59,342 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:80] Admin prijava uspjesna!
+2024-02-14 18:11:49,282 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:78] Admin prijava uspjesna!
+2024-02-14 18:15:50,442 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:78] Admin prijava uspjesna!
+2024-05-20 13:22:12,630 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:52] Korisnicka prijava uspjesna!
+2024-05-20 13:23:00,581 ERROR [JavaFX Application Thread] e.Main [Database.java:55] Pogreska kod spajanja na bazu
+2024-05-20 13:23:01,938 ERROR [JavaFX Application Thread] e.Main [Database.java:55] Pogreska kod spajanja na bazu
+2024-05-20 13:23:03,479 ERROR [JavaFX Application Thread] e.Main [Database.java:55] Pogreska kod spajanja na bazu
+2024-05-20 13:23:09,162 ERROR [JavaFX Application Thread] e.Main [Database.java:55] Pogreska kod spajanja na bazu
+2024-05-20 13:23:10,476 ERROR [JavaFX Application Thread] e.Main [Database.java:55] Pogreska kod spajanja na bazu
+2024-05-20 13:23:11,846 ERROR [JavaFX Application Thread] e.Main [Database.java:55] Pogreska kod spajanja na bazu
+2024-05-20 13:23:17,246 ERROR [JavaFX Application Thread] e.Main [Database.java:55] Pogreska kod spajanja na bazu
+2024-05-20 13:23:19,770 ERROR [JavaFX Application Thread] e.Main [Database.java:55] Pogreska kod spajanja na bazu
+2024-05-20 13:24:14,212 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:77] Admin prijava uspjesna!
+2024-05-20 13:38:32,811 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:77] Admin prijava uspjesna!
+2024-05-20 13:38:55,380 ERROR [JavaFX Application Thread] e.Main [Database.java:92] Pogreska kod spajanja na bazu
+2024-05-20 13:38:56,724 ERROR [JavaFX Application Thread] e.Main [Database.java:92] Pogreska kod spajanja na bazu
+2024-05-20 13:54:06,698 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:82] Admin prijava uspjesna!
+2024-05-20 13:55:17,532 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:82] Admin prijava uspjesna!
+2024-05-20 13:58:19,618 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:82] Admin prijava uspjesna!
+2024-05-20 14:04:38,632 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:82] Admin prijava uspjesna!
+2024-05-20 14:17:05,790 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:83] Admin prijava uspjesna!
+2024-05-20 15:18:25,531 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:82] Admin prijava uspjesna!
+2024-05-20 15:30:55,151 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:83] Admin prijava uspjesna!
+2024-05-20 15:31:35,025 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:58] Korisnicka prijava uspjesna!
+2024-05-20 15:35:25,744 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:83] Admin prijava uspjesna!
+2024-05-20 15:36:37,683 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:83] Admin prijava uspjesna!
+2024-05-20 15:38:53,171 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:83] Admin prijava uspjesna!
+2024-05-20 15:40:13,202 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:83] Admin prijava uspjesna!
+2024-05-20 15:46:58,937 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:83] Admin prijava uspjesna!
+2024-05-20 15:51:42,046 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:81] Admin prijava uspjesna!
+2024-05-20 15:53:09,805 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:81] Admin prijava uspjesna!
+2024-05-20 15:54:08,250 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:81] Admin prijava uspjesna!
+2024-05-20 15:58:41,744 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:81] Admin prijava uspjesna!
+2024-05-20 16:02:18,308 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:81] Admin prijava uspjesna!
+2024-05-20 16:09:14,581 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:77] Admin prijava uspjesna!
+2024-05-20 16:19:15,810 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:81] Admin prijava uspjesna!
+2024-05-20 16:24:31,125 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:81] Admin prijava uspjesna!
+2024-05-20 16:38:41,858 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:85] Admin prijava uspjesna!
+2024-05-20 16:43:04,267 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:96] Admin prijava uspjesna!
+2024-05-20 16:52:27,370 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:81] Admin prijava uspjesna!
+2024-05-20 16:53:10,542 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:81] Admin prijava uspjesna!
+2024-05-20 16:54:03,613 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:81] Admin prijava uspjesna!
+2024-05-20 17:01:14,724 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:81] Admin prijava uspjesna!
+2024-05-20 17:02:53,805 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:94] Admin prijava uspjesna!
+2024-05-20 17:02:58,337 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:94] Admin prijava uspjesna!
+2024-05-20 17:21:56,812 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:79] Admin prijava uspjesna!
+2024-05-20 17:23:48,775 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:79] Admin prijava uspjesna!
+2024-05-20 17:26:52,109 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:83] Admin prijava uspjesna!
+2024-05-20 17:27:40,771 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:60] Korisnicka prijava uspjesna!
+2024-05-20 17:29:37,426 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:84] Admin prijava uspjesna!
+2024-05-20 17:32:24,583 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:84] Admin prijava uspjesna!
+2024-05-20 17:48:27,175 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:104] Admin prijava uspjesna!
+2024-05-20 20:52:13,449 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:79] Admin prijava uspjesna!
+2024-05-20 20:56:56,849 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:84] Admin prijava uspjesna!
+2024-05-20 20:59:40,727 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:85] Admin prijava uspjesna!
+2024-05-20 21:00:02,335 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:62] Korisnicka prijava uspjesna!
+2024-05-21 15:17:03,727 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:85] Admin prijava uspjesna!
+2024-05-21 15:28:24,235 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:63] Korisnicka prijava uspjesna!
+2024-05-21 16:09:21,848 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:87] Admin prijava uspjesna!
+2024-05-21 16:18:12,539 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:86] Admin prijava uspjesna!
+2024-05-21 16:56:55,583 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:85] Admin prijava uspjesna!
+2024-05-21 16:57:19,400 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:85] Admin prijava uspjesna!
+2024-05-21 17:22:17,158 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:86] Admin prijava uspjesna!
+2024-05-21 18:00:06,210 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:67] Korisnicka prijava uspjesna!
+2024-05-27 16:56:30,436 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-27 17:01:21,595 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-27 17:18:02,482 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-27 17:25:52,378 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-27 17:30:05,064 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-27 17:36:54,096 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-27 17:40:09,611 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-27 17:46:46,714 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-27 17:48:02,912 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-27 17:55:16,726 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-27 17:57:26,448 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-27 17:58:29,982 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-27 18:04:04,487 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-27 19:02:41,489 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-27 19:14:43,139 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-27 19:21:01,074 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-27 19:28:43,591 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-27 20:16:21,310 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-28 20:08:01,875 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-28 20:08:30,382 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-28 20:13:58,822 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-28 20:14:20,773 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-28 20:19:27,340 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-28 21:26:12,272 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-28 21:27:11,175 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-29 20:40:50,758 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:67] Korisnicka prijava uspjesna!
+2024-05-29 20:41:00,170 ERROR [JavaFX Application Thread] e.Main [Database.java:94] Pogreska kod spajanja na bazu
+2024-05-29 20:41:12,854 ERROR [JavaFX Application Thread] e.Main [Database.java:94] Pogreska kod spajanja na bazu
+2024-05-29 20:41:14,996 ERROR [JavaFX Application Thread] e.Main [Database.java:94] Pogreska kod spajanja na bazu
+2024-05-29 20:41:16,353 ERROR [JavaFX Application Thread] e.Main [Database.java:94] Pogreska kod spajanja na bazu
+2024-05-29 20:41:58,225 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:67] Korisnicka prijava uspjesna!
+2024-05-29 22:44:32,594 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:67] Korisnicka prijava uspjesna!
+2024-05-29 22:45:36,894 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-29 22:46:19,914 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-29 22:50:00,805 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-29 22:57:39,158 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-31 20:14:03,204 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-31 20:16:50,688 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-31 20:17:56,510 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-31 20:18:26,409 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-31 20:22:22,411 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-31 20:33:09,529 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-31 20:34:14,412 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-31 20:40:35,689 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-31 20:42:04,403 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-31 20:42:45,239 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-31 20:43:12,197 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-31 20:44:34,418 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-31 20:46:01,543 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-31 20:53:09,712 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-31 20:54:39,101 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-05-31 21:04:29,334 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-06-01 10:49:15,434 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-06-01 11:03:10,590 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-06-01 11:09:55,141 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-06-01 11:13:29,617 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-06-01 11:16:39,359 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-06-01 11:51:20,182 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:67] Korisnicka prijava uspjesna!
+2024-06-01 11:52:17,481 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-06-01 12:11:48,213 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:89] Admin prijava uspjesna!
+2024-06-01 12:31:10,318 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-01 12:38:17,535 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 13:06:36,090 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 13:06:41,552 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 13:11:50,100 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 13:12:35,947 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 13:14:44,574 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 13:19:53,512 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 13:21:16,164 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 13:23:31,486 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 13:23:37,095 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 13:24:38,479 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 13:26:13,733 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 13:27:09,561 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 13:27:47,344 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 13:30:13,746 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 13:32:24,980 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 13:38:07,273 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 13:40:07,311 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 13:40:30,940 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-01 15:31:24,418 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-01 16:55:36,954 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-01 17:07:41,974 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-01 17:16:19,534 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-02 12:41:14,176 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-02 13:04:47,657 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-02 13:51:31,419 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-02 13:52:42,660 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-02 13:52:45,008 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-02 13:52:45,400 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-02 13:52:46,498 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-02 13:52:46,691 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-02 13:52:49,888 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-02 13:52:50,116 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-02 13:52:55,830 ERROR [JavaFX Application Thread] e.Main [Database.java:97] Pogreska kod spajanja na bazu
+2024-06-02 13:59:22,142 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-02 14:16:47,328 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-02 14:28:52,229 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-02 14:32:41,267 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-02 14:35:26,566 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-02 14:36:02,951 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-02 15:23:56,479 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-02 15:24:37,183 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-02 15:24:40,656 ERROR [JavaFX Application Thread] e.Main [Database.java:97] Pogreska kod spajanja na bazu
+2024-06-13 15:58:02,219 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-13 15:58:05,525 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-13 15:58:07,287 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-13 15:58:07,466 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-13 15:58:08,313 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-13 15:58:08,499 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-13 15:58:10,835 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-13 15:58:46,955 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-13 15:58:48,898 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-13 15:58:50,137 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-13 15:58:50,440 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-13 15:58:53,163 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-13 15:58:53,382 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-13 15:58:57,573 ERROR [JavaFX Application Thread] e.Main [Database.java:97] Pogreska kod spajanja na bazu
+2024-06-13 15:59:30,951 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-13 15:59:32,657 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-13 15:59:33,876 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-13 15:59:34,425 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-13 15:59:40,261 ERROR [JavaFX Application Thread] e.Main [Database.java:97] Pogreska kod spajanja na bazu
+2024-06-13 15:59:46,617 ERROR [JavaFX Application Thread] e.Main [Database.java:97] Pogreska kod spajanja na bazu
+2024-06-13 16:02:21,407 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-13 16:02:23,224 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-13 16:07:06,616 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-13 16:07:08,500 ERROR [JavaFX Application Thread] e.Main [Database.java:97] Pogreska kod spajanja na bazu
+2024-06-13 16:09:24,953 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-13 16:09:26,643 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-13 16:09:30,231 ERROR [JavaFX Application Thread] e.Main [Database.java:97] Pogreska kod spajanja na bazu
+2024-06-13 16:32:45,188 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-13 16:32:47,076 ERROR [JavaFX Application Thread] e.Main [Database.java:60] Pogreska kod spajanja na bazu
+2024-06-13 16:32:51,277 ERROR [JavaFX Application Thread] e.Main [Database.java:97] Pogreska kod spajanja na bazu
+2024-06-13 16:32:55,832 ERROR [JavaFX Application Thread] e.Main [Database.java:97] Pogreska kod spajanja na bazu
+2024-06-13 16:39:47,943 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-13 16:39:50,221 ERROR [JavaFX Application Thread] e.Main [Database.java:97] Pogreska kod spajanja na bazu
+2024-06-13 16:39:59,983 ERROR [JavaFX Application Thread] e.Main [Database.java:97] Pogreska kod spajanja na bazu
+2024-06-13 16:41:17,695 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 12:56:15,785 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 12:56:29,366 ERROR [JavaFX Application Thread] e.Main [Database.java:97] Pogreska kod spajanja na bazu
+2024-06-23 13:01:07,417 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 16:21:59,142 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 16:22:04,718 ERROR [JavaFX Application Thread] e.Main [Database.java:98] Pogreska kod spajanja na bazu
+2024-06-23 16:22:59,365 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 16:23:02,607 ERROR [JavaFX Application Thread] e.Main [Database.java:62] Pogreska kod spajanja na bazu
+2024-06-23 16:23:05,707 ERROR [JavaFX Application Thread] e.Main [Database.java:62] Pogreska kod spajanja na bazu
+2024-06-23 16:23:07,072 ERROR [JavaFX Application Thread] e.Main [Database.java:62] Pogreska kod spajanja na bazu
+2024-06-23 18:02:25,401 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 18:05:09,363 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 18:10:04,904 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 18:10:59,868 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 18:12:47,053 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 18:15:44,558 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 18:19:19,130 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 18:20:02,020 ERROR [pool-2-thread-1] e.Main [Database.java:123] Dogodila se pogreska kod spremanja podataka u bazu!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:12 */ 'Marko', U&'Bogdanovi\\0107', 24, 'Croatia', 12)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:117)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:24)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 18:21:53,872 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 18:30:09,184 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 18:30:30,409 ERROR [pool-2-thread-1] e.Main [Database.java:123] Dogodila se pogreska kod spremanja podataka u bazu!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:12 */ 'Marko', U&'Bogdanovi\\0107', 24, 'Croatia', 12)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:117)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:24)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at com.Main.esport/com.Main.esport.NewPlayerController.lambda$SpremiIgraca$1(NewPlayerController.java:81)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 18:30:36,524 ERROR [pool-3-thread-1] e.Main [Database.java:123] Dogodila se pogreska kod spremanja podataka u bazu!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:12 */ 'Marko', U&'Bogdanovi\\0107', 24, 'Croatia', 12)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:117)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:24)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at com.Main.esport/com.Main.esport.NewPlayerController.lambda$SpremiIgraca$1(NewPlayerController.java:81)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 18:48:55,446 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 18:49:19,051 ERROR [pool-2-thread-1] e.Main [Database.java:125] Dogodila se pogreska kod spremanja podataka u bazu!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:1 */ 'John', 'Wade', 25, 'England', 1)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:118)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:24)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 18:49:19,052 ERROR [pool-2-thread-1] e.Main [Database.java:126] Postavite drugi ID!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:1 */ 'John', 'Wade', 25, 'England', 1)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:118)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:24)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 18:52:20,579 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 18:53:00,236 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 18:53:22,101 ERROR [pool-2-thread-1] e.Main [Database.java:125] Dogodila se pogreska kod spremanja podataka u bazu!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:1 */ 'John', 'Wade', 25, 'England', 1)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:118)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:24)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 18:53:22,102 ERROR [pool-2-thread-1] e.Main [Database.java:126] Postavite drugi ID!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:1 */ 'John', 'Wade', 25, 'England', 1)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:118)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:24)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 18:56:36,080 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 18:56:56,402 ERROR [pool-2-thread-1] e.Main [Database.java:125] Dogodila se pogreska kod spremanja podataka u bazu!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:2 */ 'Stephen', 'Anderson', 22, 'Wales', 2)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:118)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:24)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at com.Main.esport/com.Main.esport.NewPlayerController.lambda$SpremiIgraca$1(NewPlayerController.java:81)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 18:56:56,403 ERROR [pool-2-thread-1] e.Main [Database.java:126] Postavite drugi ID!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:2 */ 'Stephen', 'Anderson', 22, 'Wales', 2)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:118)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:24)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at com.Main.esport/com.Main.esport.NewPlayerController.lambda$SpremiIgraca$1(NewPlayerController.java:81)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 18:59:39,832 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 18:59:55,619 ERROR [pool-2-thread-1] e.Main [Database.java:126] Dogodila se pogreska kod spremanja podataka u bazu!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:2 */ 'Stephen', 'Anderson', 22, 'Wales', 2)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:119)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:24)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at com.Main.esport/com.Main.esport.NewPlayerController.lambda$SpremiIgraca$1(NewPlayerController.java:81)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 18:59:55,620 ERROR [pool-2-thread-1] e.Main [Database.java:127] Postavite drugi ID!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:2 */ 'Stephen', 'Anderson', 22, 'Wales', 2)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:119)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:24)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at com.Main.esport/com.Main.esport.NewPlayerController.lambda$SpremiIgraca$1(NewPlayerController.java:81)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 19:01:19,622 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 19:01:37,397 ERROR [pool-2-thread-1] e.Main [Database.java:126] Dogodila se pogreska kod spremanja podataka u bazu!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:2 */ 'Stephen', 'Anderson', 22, 'Wales', 2)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:119)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:24)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at com.Main.esport/com.Main.esport.NewPlayerController.lambda$SpremiIgraca$1(NewPlayerController.java:81)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 19:01:37,398 ERROR [pool-2-thread-1] e.Main [Database.java:127] Postavite drugi ID!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:2 */ 'Stephen', 'Anderson', 22, 'Wales', 2)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:119)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:24)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at com.Main.esport/com.Main.esport.NewPlayerController.lambda$SpremiIgraca$1(NewPlayerController.java:81)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 19:07:11,543 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 19:07:27,925 ERROR [pool-2-thread-1] e.Main [Database.java:126] Dogodila se pogreska kod spremanja podataka u bazu!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:2 */ 'Stephen', 'Anderson', 22, 'Wales', 2)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:119)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:24)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at com.Main.esport/com.Main.esport.NewPlayerController.lambda$SpremiIgraca$2(NewPlayerController.java:74)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 19:07:27,926 ERROR [pool-2-thread-1] e.Main [Database.java:127] Postavite drugi ID!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:2 */ 'Stephen', 'Anderson', 22, 'Wales', 2)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:119)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:24)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at com.Main.esport/com.Main.esport.NewPlayerController.lambda$SpremiIgraca$2(NewPlayerController.java:74)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 19:14:20,685 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 19:15:04,363 ERROR [pool-2-thread-1] e.Main [Database.java:126] Dogodila se pogreska kod spremanja podataka u bazu!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:2 */ 'Stephen', 'Anderson', 22, 'Wales', 2)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:119)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:24)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at com.Main.esport/com.Main.esport.NewPlayerController.lambda$SpremiIgraca$2(NewPlayerController.java:74)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 19:15:04,364 ERROR [pool-2-thread-1] e.Main [Database.java:127] Postavite drugi ID!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:2 */ 'Stephen', 'Anderson', 22, 'Wales', 2)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:119)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:24)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at com.Main.esport/com.Main.esport.NewPlayerController.lambda$SpremiIgraca$2(NewPlayerController.java:74)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 19:26:09,294 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 19:26:23,630 ERROR [pool-2-thread-1] e.Main [Database.java:126] Dogodila se pogreska kod spremanja podataka u bazu!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:2 */ 'Stephen', 'Anderson', 22, 'Wales', 2)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:119)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:25)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at com.Main.esport/com.Main.esport.NewPlayerController.lambda$SpremiIgraca$1(NewPlayerController.java:78)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 19:26:23,631 ERROR [pool-2-thread-1] e.Main [Database.java:127] Postavite drugi ID!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:2 */ 'Stephen', 'Anderson', 22, 'Wales', 2)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.Main.esport/utils.Database.savePlayer(Database.java:119)
+	at com.Main.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:25)
+	at com.Main.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at com.Main.esport/com.Main.esport.NewPlayerController.lambda$SpremiIgraca$1(NewPlayerController.java:78)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-23 19:44:24,567 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 19:46:23,403 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:90] Admin prijava uspjesna!
+2024-06-23 22:16:05,627 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-23 22:21:00,152 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-23 22:27:14,367 INFO [JavaFX Application Thread] c.e.e.LoginController [LoginController.java:68] Korisnicka prijava uspjesna!
+2024-06-23 22:51:38,528 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:46] Admin prijava uspjesna!
+2024-06-24 10:42:35,343 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:46] Admin prijava uspjesna!
+2024-06-24 10:49:44,042 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:46] Admin prijava uspjesna!
+2024-06-24 10:55:14,195 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:46] Admin prijava uspjesna!
+2024-06-24 11:03:08,854 INFO [JavaFX Application Thread] c.e.e.UserLoginController [UserLoginController.java:69] Korisnicka prijava uspjesna!
+2024-06-24 11:08:53,930 INFO [JavaFX Application Thread] c.e.e.UserLoginController [UserLoginController.java:63] Korisnička prijava uspješna!
+2024-06-24 11:11:40,004 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:53] Admin prijava uspjesna!
+2024-06-24 11:13:23,238 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:53] Admin prijava uspjesna!
+2024-06-24 11:24:28,660 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:53] Admin prijava uspjesna!
+2024-06-24 11:27:22,818 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:53] Admin prijava uspjesna!
+2024-06-24 11:29:12,785 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:53] Admin prijava uspjesna!
+2024-06-24 11:35:10,410 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:53] Admin prijava uspjesna!
+2024-06-24 11:39:29,565 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:53] Admin prijava uspjesna!
+2024-06-24 11:41:09,722 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:53] Admin prijava uspjesna!
+2024-06-24 11:42:11,067 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:53] Admin prijava uspjesna!
+2024-06-25 00:23:17,223 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:53] Admin prijava uspjesna!
+2024-06-25 00:26:22,842 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:53] Admin prijava uspjesna!
+2024-06-25 11:54:22,248 INFO [JavaFX Application Thread] c.e.e.UserLoginController [UserLoginController.java:63] Korisnička prijava uspješna!
+2024-06-25 11:54:43,623 ERROR [JavaFX Application Thread] e.Main [Database.java:100] Pogreska kod spajanja na bazu
+2024-06-25 11:56:44,727 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-25 12:03:12,287 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-25 12:04:40,241 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-25 12:08:36,112 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-25 15:55:16,153 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-25 23:37:00,218 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-25 23:40:00,680 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-26 00:06:32,438 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-26 00:23:09,564 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-26 00:25:39,742 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-26 00:28:12,235 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-26 13:08:50,139 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-26 13:10:09,842 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-26 13:12:23,394 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-26 13:12:51,984 ERROR [pool-2-thread-1] Main.Main [Database.java:122] Dogodila se pogreska kod spremanja podataka u bazu!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:11 */ 'Nikola', U&'Kova\\010d', 25, 'Bosnia', 11)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.example.esport/utils.Database.savePlayer(Database.java:115)
+	at com.example.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:28)
+	at com.example.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:20)
+	at com.example.esport/com.example.esport.NewPlayerController.lambda$SpremiIgraca$1(NewPlayerController.java:75)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-26 13:12:51,985 ERROR [pool-2-thread-1] Main.Main [Database.java:123] Postavite drugi ID!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:11 */ 'Nikola', U&'Kova\\010d', 25, 'Bosnia', 11)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.example.esport/utils.Database.savePlayer(Database.java:115)
+	at com.example.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:28)
+	at com.example.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:20)
+	at com.example.esport/com.example.esport.NewPlayerController.lambda$SpremiIgraca$1(NewPlayerController.java:75)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-26 13:14:46,876 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-26 13:18:10,103 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-26 13:18:31,237 ERROR [pool-2-thread-1] Main.Main [Database.java:122] Dogodila se pogreska kod spremanja podataka u bazu!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:12 */ 'Marko', U&'Bogdanovi\\0107', 24, 'Croatia', 12)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.example.esport/utils.Database.savePlayer(Database.java:115)
+	at com.example.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:29)
+	at com.example.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at com.example.esport/com.example.esport.NewPlayerController.lambda$SpremiIgraca$1(NewPlayerController.java:75)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-26 13:18:31,239 ERROR [pool-2-thread-1] Main.Main [Database.java:123] Postavite drugi ID!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:12 */ 'Marko', U&'Bogdanovi\\0107', 24, 'Croatia', 12)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.example.esport/utils.Database.savePlayer(Database.java:115)
+	at com.example.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:29)
+	at com.example.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at com.example.esport/com.example.esport.NewPlayerController.lambda$SpremiIgraca$1(NewPlayerController.java:75)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-26 13:24:39,685 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-26 13:25:05,316 ERROR [pool-2-thread-1] Main.Main [Database.java:128] Dogodila se pogreska kod spremanja podataka u bazu!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:11 */ 'Nikola', U&'Kova\\010d', 25, 'Bosnia', 11)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.example.esport/utils.Database.savePlayer(Database.java:119)
+	at com.example.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:28)
+	at com.example.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at com.example.esport/com.example.esport.NewPlayerController.lambda$SpremiIgraca$1(NewPlayerController.java:76)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-26 13:25:05,317 ERROR [pool-2-thread-1] Main.Main [Database.java:129] Postavite drugi ID!
+org.h2.jdbc.JdbcSQLIntegrityConstraintViolationException: Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.IGRACI(ID) ( /* key:11 */ 'Nikola', U&'Kova\\010d', 25, 'Bosnia', 11)"; SQL statement:
+INSERT INTO IGRACI (IME, PREZIME, GODINE, NACIONALNOST, ID) VALUES (?, ?, ?, ?, ?) [23505-224]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:520)
+	at org.h2.engine.SessionRemote.readException(SessionRemote.java:650)
+	at org.h2.engine.SessionRemote.done(SessionRemote.java:619)
+	at org.h2.command.CommandRemote.executeUpdate(CommandRemote.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.execute(JdbcPreparedStatement.java:265)
+	at com.example.esport/utils.Database.savePlayer(Database.java:119)
+	at com.example.esport/Thread.DatabaseThread.SavePlayer(DatabaseThread.java:28)
+	at com.example.esport/Thread.SavePlayerThread.run(SavePlayerThread.java:19)
+	at com.example.esport/com.example.esport.NewPlayerController.lambda$SpremiIgraca$1(NewPlayerController.java:76)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2024-06-26 13:26:30,780 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-26 21:02:18,836 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:55] Admin prijava uspjesna!
+2024-06-26 21:15:01,051 INFO [JavaFX Application Thread] c.e.e.UserLoginController [UserLoginController.java:63] Korisnička prijava uspješna!
+2024-07-03 20:09:56,081 INFO [JavaFX Application Thread] c.e.e.UserLoginController [UserLoginController.java:63] Korisnička prijava uspješna!
+2024-07-03 20:10:11,562 ERROR [JavaFX Application Thread] Main.Main [Database.java:62] Pogreska kod spajanja na bazu
+2024-07-03 20:10:12,906 ERROR [JavaFX Application Thread] Main.Main [Database.java:62] Pogreska kod spajanja na bazu
+2024-07-03 20:10:20,775 ERROR [JavaFX Application Thread] Main.Main [Database.java:97] Pogreska kod spajanja na bazu
+2024-07-04 13:18:05,417 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:56] Admin prijava uspjesna!
+2024-07-04 13:20:28,982 INFO [JavaFX Application Thread] c.e.e.UserLoginController [UserLoginController.java:63] Korisnička prijava uspješna!
+2024-07-04 14:42:14,549 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:56] Admin prijava uspjesna!
+2024-07-04 14:57:23,737 INFO [JavaFX Application Thread] c.e.e.UserLoginController [UserLoginController.java:63] Korisnička prijava uspješna!
+2024-07-04 15:23:42,364 INFO [JavaFX Application Thread] c.e.e.UserLoginController [AdminLoginController.java:56] Admin prijava uspjesna!
+2024-07-04 15:25:48,155 INFO [JavaFX Application Thread] c.e.e.UserLoginController [UserLoginController.java:63] Korisnička prijava uspješna!

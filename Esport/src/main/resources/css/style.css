@@ -1,0 +1,9 @@
+.anchor-pane {
+    -fx-background-color:
+            linear-gradient(to bottom right, #FFA500, #FFA500 50%, #FFFFFF 50%, #FFFFFF);
+}
+
+
+.anchor-pane-lol {
+    -fx-background-color: linear-gradient(to bottom right, #1E90FF,#1E90FF 50%, #FFFFFF 50%,#FFFFFF);
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.esport.MenuBarController">
+    <children>
+      <AnchorPane layoutX="-2.0" layoutY="-3.0" prefHeight="400.0" prefWidth="600.0">
+         <children>
+            <MenuBar layoutY="1.0" prefHeight="26.0" prefWidth="608.0" style="-fx-background-color: #0096FF;">
+              <menus>
+                <Menu mnemonicParsing="false" text="ShowData">
+                  <items>
+                    <MenuItem mnemonicParsing="false" onAction="#ShowTeams" text="Team" />
+                        <MenuItem mnemonicParsing="false" onAction="#ShowPlayers" text="Players" />
+                  </items>
+                </Menu>
+                  <Menu mnemonicParsing="false" text="AddPlayer">
+                     <items>
+                        <MenuItem mnemonicParsing="false" onAction="#AddPlayer" text="Add" />
+                     </items>
+                  </Menu>
+                  <Menu fx:id="showChangesMenuItem" mnemonicParsing="false" onAction="#initialize" text="ShowChanges">
+                     <items>
+                        <MenuItem mnemonicParsing="false" onAction="#openChangeLog" text="Show" />
+                     </items>
+                  </Menu>
+                  <Menu fx:id="showChangesMenuItem1" mnemonicParsing="false" onAction="#initialize" text="Stream Service">
+                     <items>
+                        <MenuItem mnemonicParsing="false" onAction="#openStreamingPlatforms" text="Show" />
+                     </items>
+                  </Menu>
+              </menus>
+            </MenuBar>
+            <ImageView fitHeight="384.0" fitWidth="608.0" layoutY="26.0" pickOnBounds="true">
+               <image>
+                  <Image url="@../../../Images/background.jpg" />
+               </image>
+            </ImageView>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
